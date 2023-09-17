@@ -6,6 +6,7 @@
 CREATE TABLE population (
 	`Country` varchar(52),
 	`Population` integer
+
 );
 
 -- -------------------------------------

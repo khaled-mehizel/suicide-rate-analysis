@@ -14,7 +14,8 @@ Timeframe: 2016
 # Goals
 - Compare the changes of the suicide numbers between age groups.
 - Compare the suicide rate between genders.
-- Verify the correlation between suicide rate and happiness index.
+- Verify the correlation between suicide rate and happiness index.(Belgium!!)
+- Top 10 happiest countries and their suicide rate
 - See if the Perception of Corruption and suicide rates are correlated (food for thought).
 
 
