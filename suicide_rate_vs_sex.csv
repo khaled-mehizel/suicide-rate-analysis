@@ -1,0 +1,367 @@
+country,sex,suicide_rate
+Afghanistan,Female,1.40
+Afghanistan,Male,9.80
+Albania,Female,3.90
+Albania,Male,8.10
+Algeria,Female,2.20
+Algeria,Male,6.20
+Angola,Female,14.50
+Angola,Male,34.70
+"Antigua and Barbuda",Female,15.80
+"Antigua and Barbuda",Male,0.00
+Argentina,Female,3.90
+Argentina,Male,17.20
+Armenia,Female,4.40
+Armenia,Male,17.80
+Australia,Female,6.20
+Australia,Male,19.80
+Austria,Female,9.00
+Austria,Male,27.40
+Azerbaijan,Female,2.10
+Azerbaijan,Male,7.30
+Bahamas,Female,0.90
+Bahamas,Male,4.80
+Bahrain,Female,3.20
+Bahrain,Male,8.20
+Bangladesh,Female,6.10
+Bangladesh,Male,9.30
+Barbados,Female,0.00
+Barbados,Male,0.00
+Belarus,Female,8.90
+Belarus,Male,65.30
+Belgium,Female,16.20
+Belgium,Male,32.70
+Belize,Female,4.10
+Belize,Male,25.90
+Benin,Female,27.60
+Benin,Male,47.30
+Bhutan,Female,11.20
+Bhutan,Male,13.80
+"Bolivia (Plurinational State of)",Female,10.00
+"Bolivia (Plurinational State of)",Male,20.20
+"Bosnia and Herzegovina",Female,4.20
+"Bosnia and Herzegovina",Male,22.70
+Botswana,Female,12.90
+Botswana,Male,33.40
+Brazil,Female,4.70
+Brazil,Male,14.60
+"Brunei Darussalam",Female,5.60
+"Brunei Darussalam",Male,9.10
+Bulgaria,Female,5.50
+Bulgaria,Male,27.30
+"Burkina Faso",Female,25.70
+"Burkina Faso",Male,54.90
+Burundi,Female,17.30
+Burundi,Male,45.20
+"Cabo Verde",Female,22.20
+"Cabo Verde",Male,73.20
+Cambodia,Female,7.10
+Cambodia,Male,14.80
+Cameroon,Female,38.00
+Cameroon,Male,55.50
+Canada,Female,6.20
+Canada,Male,21.20
+"Central African Republic",Female,14.10
+"Central African Republic",Male,35.10
+Chad,Female,36.40
+Chad,Male,29.70
+Chile,Female,4.10
+Chile,Male,22.70
+China,Female,22.60
+China,Male,24.20
+Colombia,Female,2.30
+Colombia,Male,16.20
+Comoros,Female,13.90
+Comoros,Male,43.50
+Congo,Female,12.20
+Congo,Male,33.50
+"Costa Rica",Female,1.30
+"Costa Rica",Male,15.60
+"Côte d'Ivoire",Female,33.00
+"Côte d'Ivoire",Male,67.30
+Croatia,Female,14.00
+Croatia,Male,38.60
+Cuba,Female,12.00
+Cuba,Male,39.90
+Cyprus,Female,5.00
+Cyprus,Male,12.90
+Czechia,Female,6.80
+Czechia,Male,28.50
+"Democratic People's Republic of Korea",Female,10.20
+"Democratic People's Republic of Korea",Male,46.50
+"Democratic Republic of the Congo",Female,13.80
+"Democratic Republic of the Congo",Male,34.20
+Denmark,Female,10.50
+Denmark,Male,23.90
+Djibouti,Female,11.60
+Djibouti,Male,24.10
+"Dominican Republic",Female,4.30
+"Dominican Republic",Male,27.10
+Ecuador,Female,3.20
+Ecuador,Male,14.40
+Egypt,Female,2.90
+Egypt,Male,9.40
+"El Salvador",Female,2.10
+"El Salvador",Male,23.50
+"Equatorial Guinea",Female,23.20
+"Equatorial Guinea",Male,59.00
+Eritrea,Female,21.30
+Eritrea,Male,58.40
+Estonia,Female,5.40
+Estonia,Male,42.50
+Eswatini,Female,15.80
+Eswatini,Male,34.40
+Ethiopia,Female,11.70
+Ethiopia,Male,39.40
+Fiji,Female,4.50
+Fiji,Male,6.10
+Finland,Female,8.80
+Finland,Male,24.70
+France,Female,13.00
+France,Male,28.10
+Gabon,Female,12.10
+Gabon,Male,35.70
+Gambia,Female,22.90
+Gambia,Male,32.90
+Georgia,Female,4.60
+Georgia,Male,23.20
+Germany,Female,9.40
+Germany,Male,23.20
+Ghana,Female,6.60
+Ghana,Male,42.70
+Greece,Female,3.00
+Greece,Male,11.70
+Grenada,Female,0.00
+Grenada,Male,29.40
+Guatemala,Female,1.10
+Guatemala,Male,7.80
+Guinea,Female,24.80
+Guinea,Male,31.10
+Guinea-Bissau,Female,21.50
+Guinea-Bissau,Male,24.60
+Guyana,Female,13.20
+Guyana,Male,52.10
+Haiti,Female,4.90
+Haiti,Male,19.30
+Honduras,Female,1.90
+Honduras,Male,8.40
+Hungary,Female,12.20
+Hungary,Male,48.30
+Iceland,Female,10.30
+Iceland,Male,37.40
+India,Female,13.30
+India,Male,21.70
+Indonesia,Female,3.70
+Indonesia,Male,9.40
+"Iran (Islamic Republic of)",Female,3.30
+"Iran (Islamic Republic of)",Male,5.90
+Iraq,Female,4.80
+Iraq,Male,6.50
+Ireland,Female,3.10
+Ireland,Male,22.00
+Israel,Female,4.00
+Israel,Male,12.20
+Italy,Female,5.10
+Italy,Male,15.70
+Jamaica,Female,1.20
+Jamaica,Male,4.40
+Japan,Female,12.90
+Japan,Male,28.90
+Jordan,Female,4.10
+Jordan,Male,7.70
+Kazakhstan,Female,9.10
+Kazakhstan,Male,57.80
+Kenya,Female,5.70
+Kenya,Male,21.10
+Kiribati,Female,7.20
+Kiribati,Male,23.50
+Kuwait,Female,0.00
+Kuwait,Male,4.00
+Kyrgyzstan,Female,4.40
+Kyrgyzstan,Male,18.10
+"Lao People's Democratic Republic",Female,7.10
+"Lao People's Democratic Republic",Male,16.90
+Latvia,Female,11.10
+Latvia,Male,46.50
+Lebanon,Female,3.20
+Lebanon,Male,8.10
+Lesotho,Female,69.90
+Lesotho,Male,33.10
+Liberia,Female,50.10
+Liberia,Male,39.80
+Libya,Female,3.10
+Libya,Male,11.60
+Lithuania,Female,13.30
+Lithuania,Male,78.50
+Luxembourg,Female,13.10
+Luxembourg,Male,28.90
+Madagascar,Female,10.70
+Madagascar,Male,27.00
+Malawi,Female,9.50
+Malawi,Male,33.90
+Malaysia,Female,9.70
+Malaysia,Male,21.90
+Maldives,Female,3.40
+Maldives,Male,7.80
+Mali,Female,13.40
+Mali,Male,30.00
+Malta,Female,1.00
+Malta,Male,6.80
+Mauritania,Female,10.90
+Mauritania,Male,32.00
+Mauritius,Female,1.50
+Mauritius,Male,11.90
+Mexico,Female,1.90
+Mexico,Male,10.70
+"Micronesia (Federated States of)",Female,8.20
+"Micronesia (Federated States of)",Male,19.70
+Mongolia,Female,6.10
+Mongolia,Male,20.40
+Montenegro,Female,9.00
+Montenegro,Male,27.70
+Morocco,Female,6.00
+Morocco,Male,3.10
+Mozambique,Female,10.40
+Mozambique,Male,25.50
+Myanmar,Female,12.40
+Myanmar,Male,10.80
+Namibia,Female,10.60
+Namibia,Male,32.70
+Nepal,Female,8.10
+Nepal,Male,17.60
+Netherlands,Female,11.40
+Netherlands,Male,23.30
+"New Zealand",Female,3.80
+"New Zealand",Male,12.70
+Nicaragua,Female,2.40
+Nicaragua,Male,15.50
+Niger,Female,18.80
+Niger,Male,26.50
+Nigeria,Female,55.40
+Nigeria,Male,41.70
+Norway,Female,11.70
+Norway,Male,20.90
+Oman,Female,1.70
+Oman,Male,4.70
+Pakistan,Female,2.70
+Pakistan,Male,3.20
+Panama,Female,0.60
+Panama,Male,8.10
+"Papua New Guinea",Female,6.50
+"Papua New Guinea",Male,15.30
+Paraguay,Female,3.70
+Paraguay,Male,12.80
+Peru,Female,3.10
+Peru,Male,14.10
+Philippines,Female,1.30
+Philippines,Male,7.20
+Poland,Female,6.30
+Poland,Male,40.10
+Portugal,Female,8.20
+Portugal,Male,29.60
+Qatar,Female,3.70
+Qatar,Male,12.60
+"Republic of Korea",Female,15.50
+"Republic of Korea",Male,54.20
+"Republic of Moldova",Female,8.70
+"Republic of Moldova",Male,51.30
+"Republic of North Macedonia",Female,6.90
+"Republic of North Macedonia",Male,19.50
+Romania,Female,5.20
+Romania,Male,30.10
+"Russian Federation",Female,9.80
+"Russian Federation",Male,61.40
+Rwanda,Female,15.10
+Rwanda,Male,35.30
+"Saint Lucia",Female,0.00
+"Saint Lucia",Male,25.40
+"Saint Vincent and the Grenadines",Female,0.00
+"Saint Vincent and the Grenadines",Male,5.40
+Samoa,Female,5.20
+Samoa,Male,20.40
+"Sao Tome and Principe",Female,3.10
+"Sao Tome and Principe",Male,7.30
+"Saudi Arabia",Female,3.30
+"Saudi Arabia",Male,8.10
+Senegal,Female,16.30
+Senegal,Male,56.40
+Serbia,Female,10.60
+Serbia,Male,35.40
+Seychelles,Female,3.50
+Seychelles,Male,30.40
+"Sierra Leone",Female,40.80
+"Sierra Leone",Male,37.70
+Singapore,Female,8.60
+Singapore,Male,22.80
+Slovakia,Female,5.20
+Slovakia,Male,32.40
+Slovenia,Female,12.80
+Slovenia,Male,41.00
+"Solomon Islands",Female,5.00
+"Solomon Islands",Male,12.90
+Somalia,Female,13.40
+Somalia,Male,23.30
+"South Africa",Female,10.40
+"South Africa",Male,41.70
+"South Sudan",Female,10.90
+"South Sudan",Male,18.20
+Spain,Female,5.80
+Spain,Male,15.90
+"Sri Lanka",Female,7.80
+"Sri Lanka",Male,32.20
+Sudan,Female,3.00
+Sudan,Male,8.60
+Suriname,Female,13.00
+Suriname,Male,58.70
+Sweden,Female,11.10
+Sweden,Male,23.50
+Switzerland,Female,13.00
+Switzerland,Male,30.30
+"Syrian Arab Republic",Female,1.50
+"Syrian Arab Republic",Male,4.00
+Tajikistan,Female,4.80
+Tajikistan,Male,10.60
+Thailand,Female,10.60
+Thailand,Male,26.10
+Timor-Leste,Female,7.80
+Timor-Leste,Male,15.30
+Togo,Female,33.00
+Togo,Male,54.70
+Tonga,Female,6.00
+Tonga,Male,10.80
+"Trinidad and Tobago",Female,6.60
+"Trinidad and Tobago",Male,28.00
+Tunisia,Female,4.30
+Tunisia,Male,7.60
+Turkey,Female,1.50
+Turkey,Male,4.90
+Turkmenistan,Female,4.10
+Turkmenistan,Male,13.30
+Uganda,Female,52.20
+Uganda,Male,41.90
+Ukraine,Female,7.20
+Ukraine,Male,51.30
+"United Arab Emirates",Female,1.60
+"United Arab Emirates",Male,5.60
+"United Kingdom of Great Britain and Northern Ireland",Female,4.20
+"United Kingdom of Great Britain and Northern Ireland",Male,13.00
+"United Republic of Tanzania",Female,14.40
+"United Republic of Tanzania",Male,32.60
+"United States of America",Female,8.80
+"United States of America",Male,27.90
+Uruguay,Female,10.40
+Uruguay,Male,39.00
+Uzbekistan,Female,2.20
+Uzbekistan,Male,12.80
+Vanuatu,Female,4.30
+Vanuatu,Male,12.10
+"Venezuela (Bolivarian Republic of)",Female,1.50
+"Venezuela (Bolivarian Republic of)",Male,10.30
+"Viet Nam",Female,10.10
+"Viet Nam",Male,20.60
+Yemen,Female,4.90
+Yemen,Male,11.90
+Zambia,Female,16.00
+Zambia,Male,38.70
+Zimbabwe,Female,26.40
+Zimbabwe,Male,62.80
